@@ -2,7 +2,7 @@
   connection: local
 
   vars:
-    users: 10
+    users: 20
     gitops_deployments:
       - cluster
       - kam
